@@ -1,0 +1,35 @@
+.branco {
+    color: white;
+}
+
+.branco_bg {
+    background-color: white;
+}
+
+.branco_bx {
+    border-left-color: white;
+    border-top-color: white;
+}
+
+.branco_by {
+    border-right-color: white;
+    border-bottom-color: white;
+}
+
+.brancoEscuro {
+    color: darkwhite;
+}
+
+.brancoEscuro_bg {
+    background-color: darkwhite;
+}
+
+.brancoEscuro_bx {
+    border-left-color: darkwhite;
+    border-top-color: darkwhite;
+}
+
+.brancoEscuro_by {
+    border-right-color: darkwhite;
+    border-bottom-color: darkwhite;
+}

@@ -1,0 +1,37 @@
+
+.preto {
+    color: black;
+}
+
+.pretoEscuro {
+    color: darkblack;
+}
+
+.pretoEscuro_bg {
+    background-color: darkblack;
+}
+
+.pretoEscuro_bx {
+    border-left-color: darkblack;
+    border-top-color: darkblack;
+}
+
+.pretoEscuro_by {
+    border-right-color: darkblack;
+    border-bottom-color: darkblack;
+}
+
+.preto_bg {
+    background-color: black;
+}
+
+.preto_bx {
+    border-left-color: black;
+    border-top-color: black;
+}
+
+.preto_by {
+    border-right-color: black;
+    border-bottom-color: black;
+}
+

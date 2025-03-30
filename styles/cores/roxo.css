@@ -1,0 +1,35 @@
+.roxo {
+    color: purple;
+}
+
+.roxoEscuro {
+    color: darkpurple;
+}
+
+.roxoEscuro_bg {
+    background-color: darkpurple;
+}
+
+.roxoEscuro_bx {
+    border-left-color: darkpurple;
+    border-top-color: darkpurple;
+}
+
+.roxoEscuro_by {
+    border-right-color: darkpurple;
+    border-bottom-color: darkpurple;
+}
+
+.roxo_bg {
+    background-color: purple;
+}
+
+.roxo_bx {
+    border-left-color: purple;
+    border-top-color: purple;
+}
+
+.roxo_by {
+    border-right-color: purple;
+    border-bottom-color: purple;
+}

@@ -1,0 +1,37 @@
+
+.magenta {
+    color: magenta;
+}
+
+.magentaEscuro {
+    color: darkmagenta;
+}
+
+.magentaEscuro_bg {
+    background-color: darkmagenta;
+}
+
+.magentaEscuro_bx {
+    border-left-color: darkmagenta;
+    border-top-color: darkmagenta;
+}
+
+.magentaEscuro_by {
+    border-right-color: darkmagenta;
+    border-bottom-color: darkmagenta;
+}
+
+.magenta_bg {
+    background-color: magenta;
+}
+
+.magenta_bx {
+    border-left-color: magenta;
+    border-top-color: magenta;
+}
+
+.magenta_by {
+    border-right-color: magenta;
+    border-bottom-color: magenta;
+}
+

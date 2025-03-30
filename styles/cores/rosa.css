@@ -1,0 +1,36 @@
+.rosa {
+    color: pink;
+}
+
+.rosaEscuro {
+    color: darkpink;
+}
+
+.rosaEscuro_bg {
+    background-color: darkpink;
+}
+
+.rosaEscuro_bx {
+    border-left-color: darkpink;
+    border-top-color: darkpink;
+}
+
+.rosaEscuro_by {
+    border-right-color: darkpink;
+    border-bottom-color: darkpink;
+}
+
+.rosa_bg {
+    background-color: pink;
+}
+
+.rosa_bx {
+    border-left-color: pink;
+    border-top-color: pink;
+}
+
+.rosa_by {
+    border-right-color: pink;
+    border-bottom-color: pink;
+}
+
